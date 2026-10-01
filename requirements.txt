@@ -1,0 +1,11 @@
+# versions used for the published results (Python 3.11)
+pandas==3.0.2
+numpy==2.4.4
+scipy==1.17.1
+statsmodels==0.15.0
+matplotlib==3.10.9
+pyarrow==25.0.1
+bottleneck==1.6.0
+requests==2.33.1
+tabulate==0.10.0
+# paper PDF additionally needs pandoc (>=3.1) and xelatex with the TeX Gyre fonts
